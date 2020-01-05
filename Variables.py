@@ -1,0 +1,11 @@
+Kiwis = 0
+KPS = 0
+KiwiSeedCount = 0
+KiwiSeedPrice = 100
+KiwiSeedKPS = 1
+KiwiPlantCount = 0
+KiwiPlantPrice = 500
+KiwiPlantKPS = 10
+KiwiFarmCount = 0
+KiwiFarmPrice = 10000
+KiwiFarmKPS = 50
